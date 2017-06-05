@@ -4,6 +4,7 @@
  *
  * @author Su Jun <351699382@qq.com>
  */
+
 namespace OauthSDK;
 
 use OauthSDK\Config;
