@@ -22,7 +22,7 @@ abstract class Oauth
      * oauth版本
      * @var string
      */
-    protected $version = '1.0';
+    protected $version = '1.0.0';
 
     /**
      * 申请应用时分配的app_key
