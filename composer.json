@@ -3,7 +3,7 @@
     "description":"第三方登录",
     "license": "MIT",
     "keywords":["QQ登录","微信登录","微博登录"],
-    "version": "1.0.0",
+    "version": "v1.0.1",
     "authors":[
         {
             "name":"sujun",
