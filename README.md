@@ -3,11 +3,6 @@
 [![Latest development][ico-version-dev]][link-packagist]
 
 
------
-
-
-
-----
 
 
 # OauthSDK是什么？
@@ -37,7 +32,7 @@
 composer update
 ```
 
-#使用方式
+# 使用方式
 分三步走。
 
 # 1、登录处放置第三方登录入口
@@ -182,7 +177,8 @@ CREATE TABLE `oauth_login` (
 ```
 
 
-
+[ico-license]: https://img.shields.io/github/license/helei112g/payment.svg
 [ico-version-dev]: https://img.shields.io/packagist/vpre/riverslei/payment.svg
+
 
 [link-packagist]: https://packagist.org/packages/sujun/oauthsdk
