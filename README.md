@@ -51,7 +51,7 @@ composer update
 ```
 
 
-#2、生成第三方登录授权地址
+# 2、生成第三方登录授权地址
 如下：login.php 页面
 ```
 
@@ -94,7 +94,7 @@ try {
 ```
 
 
-#3、设置回调地址
+# 3、设置回调地址
 
 ```
 use OauthSDK\Oauth;
@@ -182,8 +182,7 @@ CREATE TABLE `oauth_login` (
 ```
 
 
-[ico-license]: https://img.shields.io/github/license/helei112g/payment.svg
-[ico-version-dev]: https://img.shields.io/packagist/vpre/riverslei/payment.svg
 
+[ico-version-dev]: https://img.shields.io/packagist/vpre/riverslei/payment.svg
 
 [link-packagist]: https://packagist.org/packages/sujun/oauthsdk
