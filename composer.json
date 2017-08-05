@@ -1,6 +1,6 @@
 {
     "name": "sujun/oauthsdk",
-    "description":"第三方登录",
+    "description":"史上最方便集成第三方登录插件",
     "license": "MIT",
     "keywords":["QQ登录","微信登录","微博登录"],
     "version": "v1.0.1",
